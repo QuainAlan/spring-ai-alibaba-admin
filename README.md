@@ -1,4 +1,4 @@
-# Spring AI Alibaba Admin
+# This repository is now part of the [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba/tree/main/spring-ai-alibaba-admin) project. The source code has been fully migrated, please submit and follow updates there.
 
 > Spring AI Alibaba Repo: https://github.com/alibaba/spring-ai-alibaba
 >
